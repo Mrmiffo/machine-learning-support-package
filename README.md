@@ -17,7 +17,7 @@ The environment automatically installs the tensorflow-gpu package. This allows f
 Please follow the following guidelines from TensorFlow for how to install CUDA drivers for compatible nVIDIA cards: 
 https://www.tensorflow.org/install/gpu
 
-NOTE: 
+#### NOTE: 
 - CUDA Toolkit 10 does NOT work with tensorflow. Please follow the guidelines strictly to avoid issues.
 - Your "normal" graphics drivers may become outdated by installing CUDA. Reinstalling the latest graphics drivers after CUDA install is recommended and should not affect tensorflow.
 
