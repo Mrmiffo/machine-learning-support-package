@@ -1,6 +1,5 @@
-from keras.layers import Dense, Dropout, Conv2D, Flatten, MaxPooling2D
+from keras.layers import Dense, Conv2D, Flatten, MaxPooling2D
 from keras.models import Sequential
-from keras.preprocessing.image import ImageDataGenerator
 from keras.utils import to_categorical
 import numpy as np
 import matplotlib.pyplot as plt
